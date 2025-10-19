@@ -23,6 +23,9 @@ Se vincularon los csv desde el repositorio de alura y se cargaron a las variable
 ### 3. Uso de estructuras de control y listas
 Se utilizaron estructuras for e if para hacer una revisión rápida del contenido de "tiendas" la cual es una lista que acumula las cargadas anteriormente
 
+### 4. Análisis de gráficas con Matplotlib"
+Se utilizó la bibliote matplotlib para hacer gráficas básicas para algunas tablas
+
 ## Ejecución del Proyecto
 1. Clonar el repositorio:  
    ```bash
